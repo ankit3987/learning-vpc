@@ -1,6 +1,5 @@
 # AWS VPC Architecture Diagrams
 
-note:- ip only allocate the nat gatway
 ---
 
 ## Diagram 1 📘
@@ -49,6 +48,7 @@ This setup follows a best-practice security pattern:
 ---
 
 ## Diagram 3 🌐
+*note:- ip only allocate the nat gatway*
 
 ![Diagram 3](pngs/diagram3_verti.png)
 ![Diagram 4](pngs/diagram3-hori.png)
