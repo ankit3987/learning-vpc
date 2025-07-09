@@ -54,7 +54,7 @@ This architecture follows a common security pattern where:
 
 ![Diagram 4](pngs/diagram3-hori.png)
 
-![Diagram 5](pngs/.png)
+![Diagram 5](pngs/natgate-flow.png)
 
 
 I've created a VPC architecture diagram that shows the setup you requested. The diagram illustrates:
