@@ -1,5 +1,6 @@
 # AWS VPC Architecture Diagrams
 
+note:- ip only allocate the nat gatway
 ---
 
 ## Diagram 1 📘
