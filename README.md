@@ -50,7 +50,12 @@ This architecture follows a common security pattern where:
 
 ## Diagram 3
 
-![Diagram 3](pngs/diagram3.png)
+![Diagram 3](pngs/diagram3_verti.png)
+
+![Diagram 4](pngs/diagram3-hori.png)
+
+![Diagram 5](pngs/.png)
+
 
 I've created a VPC architecture diagram that shows the setup you requested. The diagram illustrates:
 
