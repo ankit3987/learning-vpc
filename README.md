@@ -4,7 +4,7 @@
 
 ## Diagram 1
 
-![Diagram 1](png/diagram1.png)
+![Diagram 1](pngs/diagram1.png)
 
 The diagram shows a simple AWS architecture with the following components:
 
@@ -22,7 +22,7 @@ The arrows show the network flow:
 
 ## Diagram 2
 
-![Diagram 2](png/diagram2.png)
+![Diagram 2](pngs/diagram2.png)
 
 The diagram shows an AWS VPC architecture with public and private subnets:
 
@@ -50,7 +50,7 @@ This architecture follows a common security pattern where:
 
 ## Diagram 3
 
-![Diagram 3](png/diagram3.png)
+![Diagram 3](pngs/diagram3.png)
 
 I've created a VPC architecture diagram that shows the setup you requested. The diagram illustrates:
 
